@@ -1,0 +1,19 @@
+{
+  "name": "file_monitor",
+  "main": "index.html",
+  "window": {
+    "toolbar": false,
+    "resizable": true,
+    "frame": true
+  },
+  "version": "1.0.0",
+  "description": "monitors files",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "johndrkurtcom",
+  "license": "MIT",
+  "dependencies": {
+    "diskdb": "^0.1.14"
+  }
+}
